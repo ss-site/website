@@ -1,17 +1,23 @@
 # Website
 
-Frontend source files and deployment resources.
+Frontend source files and deployment resources for the website.
 
-## Structure
+## Live Websites
 
-- HTML
-- CSS
-- JavaScript
-- Static assets
+Main Site
+https://summersagamods.com
+
+Download Hub
+https://download.summersagamods.com
+
+## Project Structure
+
+* HTML
+* CSS
+* JavaScript
+* Static assets
+* Deployment resources
 
 ## Deployment
 
-Connected to Cloudflare Pages for production deployment.
-
-Website:
-https://summersagamods.com
+This repository is connected to Cloudflare Pages for production deployment.
