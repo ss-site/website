@@ -8,7 +8,7 @@ Main Site
 https://summersagavault.com
 
 Download Hub
-https://summersagavault.com
+https://summersagavault.com/download/
 
 ## Project Structure
 
