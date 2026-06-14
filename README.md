@@ -5,10 +5,10 @@ Frontend source files and deployment resources for the website.
 ## Live Websites
 
 Main Site
-https://summersagamods.com
+https://summersagavault.com
 
 Download Hub
-https://download.summersagamods.com
+https://summersagavault.com
 
 ## Project Structure
 
